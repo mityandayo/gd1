@@ -1,0 +1,21 @@
+body{
+    background-color: blueviolet;
+}
+section{
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.hero{
+    background-image: url(../images/baguettes-2561_1280.jpg);
+    text-align: center;
+    padding-top: 10vh;
+}
+.menu{
+    background-image: ;
+}
+.title{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 4.5rem;
+}
